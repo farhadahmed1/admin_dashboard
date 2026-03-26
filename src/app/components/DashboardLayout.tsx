@@ -32,6 +32,7 @@ const navItems = [
   { path: "/orders", label: "Orders", icon: ShoppingCart },
   { path: "/products", label: "Products", icon: Package },
   { path: "/customers", label: "Customers", icon: Users },
+  { path: "/users", label: "Users", icon: Users },
   { path: "/analytics", label: "Analytics", icon: BarChart3 },
   { path: "/settings", label: "Settings", icon: Settings },
 ];
